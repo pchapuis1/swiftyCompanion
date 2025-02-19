@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="coalitions_color_air">#93979B</color>
+    <color name="coalitions_color_fire">#FFA142</color>
+    <color name="coalitions_color_water">#326C9C</color>
+    <color name="coalitions_color_earth">#07CD00</color>
+
+</resources>
